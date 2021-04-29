@@ -24,7 +24,7 @@ Each case in Commonsense QA contain a question stem, a question concept and 5 ch
 
 ### Experiment Details
 
-The accuracies of 4 different runs are 80.18%, 80.50%, 79.93%, 80.09% respectively on the dev set.
+The accuracies of 5 different runs are 80.18%, 80.10%, 80.50%, 79.93%, 80.09% respectively on the dev set.
 
 Parameters for training are listed as below:
 
