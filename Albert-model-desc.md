@@ -4,7 +4,7 @@
 
 
 
-### implementation
+### Implementation
 
 Each case in Commonsense QA contain a question stem, a question concept and 5 choices.
 
