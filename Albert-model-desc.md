@@ -16,11 +16,11 @@ Each case in Commonsense QA contain a question stem, a question concept and 5 ch
 
 2.  **Model**
 
-    We simply applied [huggingface's AlbertForMultipleChoice](https://huggingface.co/transformers/_modules/transformers/models/albert/modeling_albert.html#AlbertForMultipleChoice.forward) to the task.
+    Our model are similar to [huggingface's AlbertForMultipleChoice](https://huggingface.co/transformers/_modules/transformers/models/albert/modeling_albert.html#AlbertForMultipleChoice.forward) to the task.
 
     input_feature =**albert**=> pooled_output =**classifier**=> score
 
-
+    [CODE](https://github.com/Zaaachary/CSQA)
 
 ### Experiment Details
 
