@@ -1,8 +1,6 @@
-# Description
+# CommonsenseQA Albert Model Description
 
 [ALBERT](https://arxiv.org/abs/1909.11942) (single model)
-
-
 
 ### Implementation
 
